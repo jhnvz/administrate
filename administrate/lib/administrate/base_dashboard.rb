@@ -9,6 +9,8 @@ require "administrate/fields/number"
 require "administrate/fields/polymorphic"
 require "administrate/fields/string"
 require "administrate/fields/text"
+require "administrate/fields/file"
+require "administrate/fields/local_date_time"
 
 module Administrate
   class BaseDashboard
